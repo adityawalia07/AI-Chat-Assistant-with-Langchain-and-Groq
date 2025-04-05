@@ -109,4 +109,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+# Output 
+
+
+https://github.com/user-attachments/assets/e1c7a471-a42f-460b-98ff-62a555e6703c
+
+
+
+
 Built with ❤️ using Streamlit, LangChain and ChatGroq
